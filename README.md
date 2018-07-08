@@ -3,7 +3,7 @@
 
 ### Test Driven Exercise
 
-#### Add case 2 to the `__add__` method to your library:
+#### Add case 2 to the `__add__` method in your library:
 
 
 ```python
